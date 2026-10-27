@@ -1,0 +1,14 @@
+{
+  "nombre_empresa": "Servicios de Urgencias 24h",
+  "sector": "Cerrajería / Fontanería / Veterinaria",
+  "telefono_guardia": "34654230655",
+  "direccion_clinica_vet": "Calle Mayor 123, Madrid",
+  "tarifas": {
+    "cerrajeria": "Apertura desde 80 € + desplazamiento (25 €)",
+    "fontaneria": "Reparación desde 70 € + desplazamiento (25 €)",
+    "veterinaria": "Consulta urgencia 60 € (pruebas/medicación aparte)"
+  },
+  "zona_cobertura": "Toda la provincia y alrededores",
+  "medios_pago": "Efectivo, Bizum o Tarjeta",
+  "politica_precios": "Informar que los precios son orientativos y el coste exacto se confirma al evaluar la avería o paciente."
+}
